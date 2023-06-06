@@ -14,6 +14,7 @@ target 'ToDoList' do
   # For example, to use Firebase Authentication and Cloud Firestore
   pod 'FirebaseAuth'
   pod 'FirebaseFirestore'
+  pod 'FirebaseFirestoreSwift'
   # Pods for ToDoList
 
   target 'ToDoListTests' do
@@ -22,6 +23,7 @@ target 'ToDoList' do
     pod 'FirebaseAnalytics'
     pod 'FirebaseAuth'
     pod 'FirebaseFirestore'
+    pod 'FirebaseFirestoreSwift'
   end
 
   target 'ToDoListUITests' do
