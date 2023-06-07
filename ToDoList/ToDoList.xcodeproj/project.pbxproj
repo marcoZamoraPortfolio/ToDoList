@@ -68,6 +68,7 @@
 		D792F0962A2EE719003F8BFD /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D792F0952A2EE719003F8BFD /* HeaderView.swift */; };
 		D792F0972A2EE719003F8BFD /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D792F0952A2EE719003F8BFD /* HeaderView.swift */; };
 		D792F0982A2EE719003F8BFD /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D792F0952A2EE719003F8BFD /* HeaderView.swift */; };
+		D7FAFA0B2A30E21D00A248CE /* TDLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7FAFA0A2A30E21D00A248CE /* TDLButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -122,6 +123,7 @@
 		D792F08D2A2EE2B0003F8BFD /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		D792F0912A2EE2C8003F8BFD /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
 		D792F0952A2EE719003F8BFD /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		D7FAFA0A2A30E21D00A248CE /* TDLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TDLButton.swift; sourceTree = "<group>"; };
 		DA4F07308121C3BE5C6F6072 /* Pods_ToDoList_ToDoListUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ToDoList_ToDoListUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEA53A2911DC899E56B5DFFA /* Pods-ToDoList-ToDoListUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ToDoList-ToDoListUITests.release.xcconfig"; path = "Target Support Files/Pods-ToDoList-ToDoListUITests/Pods-ToDoList-ToDoListUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -248,6 +250,7 @@
 				D792F0692A2EE156003F8BFD /* RegisterView.swift */,
 				D792F06D2A2EE185003F8BFD /* ToDoListItemView.swift */,
 				D792F0952A2EE719003F8BFD /* HeaderView.swift */,
+				D7FAFA0A2A30E21D00A248CE /* TDLButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -547,6 +550,7 @@
 				D792F08E2A2EE2B0003F8BFD /* RegisterViewViewModel.swift in Sources */,
 				D792F07A2A2EE22A003F8BFD /* MainViewViewModel.swift in Sources */,
 				D792F05E2A2EE127003F8BFD /* ToDoListView.swift in Sources */,
+				D7FAFA0B2A30E21D00A248CE /* TDLButton.swift in Sources */,
 				D792F06A2A2EE156003F8BFD /* RegisterView.swift in Sources */,
 				D792F07E2A2EE23C003F8BFD /* ProfileViewViewModel.swift in Sources */,
 				D792F0582A2EE0F9003F8BFD /* ProfileView.swift in Sources */,
